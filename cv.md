@@ -67,7 +67,8 @@ ___Polish___ | A2  |working experience
 ### Activity
 
 An active civil position:
-   - help those in need:
+   - help those in need
+
       1 people
       
       2 pets
