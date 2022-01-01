@@ -1,34 +1,40 @@
 
-#ANTON KARSEKA 
-##future front-end developer
+# ANTON KARSEKA
+
+## future front-end developer
 
 ---
-###Contacts
- ######
-__github__ https://github.com/Karseka
-__linkedin__ https://www.linkedin.com/in/anton-karseka-0a2a35200/ 
-__skype__ https://join.skype.com/invite/iAy73nfJ42PO
-__telegram__ https://t.me/Ppatso
+### Contacts
+__Discord__ patso(@Karseka)#6673
+
+__Github__ https://github.com/Karseka
+
+__Linkedin__ https://www.linkedin.com/in/anton-karseka-0a2a35200/ 
+
+__Skype__ https://join.skype.com/invite/iAy73nfJ42PO
+
+__Telegram__ https://t.me/Ppatso
 
 ---
-###IT Experience
+
+### IT Experience
+
 Scrum Master / Project Manager with 1+ year of experience, who is able to lead teams to deliver the product. 
-Skilles in Agile & Waterfall Methodologies, Scrum, Kanban.
+
+Skilled in Agile & Waterfall Methodologies, Scrum, Kanban.
 
 ---
 
-###Projects
+### Projects
 
-#####VMG Digital
+##### VMG Digital
 An australian product advertising platform.  
-#####Brandoo 
+##### Brandoo 
 A swiss startup for promoting brands.
-#####Infomedia Ltd.
+##### Infomedia Ltd.
 Global auto-parts sales platform with australian origin.
 
-
-
-####_Responsibilities_
+#### _Responsibilities_
 - communication with the customer
 - project planning
 - Project initiation
@@ -37,25 +43,19 @@ Global auto-parts sales platform with australian origin.
 - project analysis
 - project evaluation and estimation
 
-
-
-
 ---
-###Education
+### Education
 
-#####Belarusian State Economic University,
+##### Belarusian State Economic University,
 - International Economic Relations Faculty. MINSK, BELARUS.
   - Bachelor's degree in economics.
-#####PROFIL GMBH, Institut  fuer weiterbildung, personalentwicklung und computertraining. Hаnnover, GERMANY.
+##### PROFIL GMBH, Institut  fuer weiterbildung, personalentwicklung und computertraining. Hаnnover, GERMANY.
    - Specialization Web-/Shopadministration.
 
      - Assistenet (IHK) Electronic Commerce from german commerce chamber.
-
-
-
 ---
 
-###Knowledge of languages
+### Knowledge of languages
 language | level | details
 :--------|:------|--------:
 ___Russian___ | C1  | native
@@ -64,15 +64,12 @@ ___German___ | B1  |working experience
 ___Polish___ | A2  |working experience
 
 ---
-###Activity
-
+### Activity
 
 An active civil position:
--  volunteer:
    - help those in need:
-      1 people 
+      1 people
+      
       2 pets
-
-
 ___
 
