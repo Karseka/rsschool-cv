@@ -56,11 +56,17 @@ Global auto-parts sales platform with australian origin.
 ---
 
 ### Knowledge of languages
+
 language | level | details
+
 :--------|:------|--------:
+
 ___Russian___|C1|native
+
 ___English___|B1+|IT working experience
+
 ___German___|B1|working experience
+
 ___Polish___|A2|working experience
 
 ---
