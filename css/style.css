@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(196, 253, 255, 0.24);
+}
+
+div.text{
+    font-size: 20px;
+    font-style: italic;
+    
+}
+div{
+    font-size: 20px;
+}
+.title{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+hr.border{
+    size: 10px;
+}
+
+hr{
+    size: 5px;
+}
