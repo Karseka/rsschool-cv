@@ -9,52 +9,75 @@
 </head>
 
 <body>
-    <header>     </header>
 
-    <main>
-        <hr class="border" >
-            <table >
-                <tr>
-                   
-                    <td><h1>Anton Karseka</h1></td>
+    <div class="container">
+
+
+    <header> 
+        <nav class="nav">
+            <ul class="nav-list">
+              <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+              <li class="nav-item"><a href="#summary" class="nav-link" >Summary</a></li>
+              <li class="nav-item"><a href="#education" class="nav-link" >Education</a></li>
+              <li class="nav-item"><a href="#languages" class="nav-link" >Languages</a></li>
+              <li class="nav-item"><a href="#courses" class="nav-link" >Courses</a></li>
+              <li class="nav-item"><a href="#code" class="nav-link" >Code</a></li>
                        
-                    <td><img src="img/Karseka_avatarka.jpg" alt="Karseka_avatarka"></td>
-                    
-                    <td> <h2 >Contacts</h2></td>
-                    <td>
-                       <ul>
-                            
-                            <li><a href="https://github.com/Karseka" target="blank">Github</a></li>
-                            <li><a href="https://www.linkedin.com/in/anton-karseka-0a2a35200" target="blank">Linkedin</a></li>
-                            <li><a href="https://join.skype.com/invite/iAy73nfJ42PO" target="blank">Skype</a></li>
-                            <li><a href="https://t.me/Ppatso" target="blank">Telegram</a></li>
-                        
-                        </ul> 
-                    </td>
-                </tr>
+            </ul>
+          </nav>
+        
+    </header>
+    <main>
 
-
-
-            </table>
             
-           
-        <hr>
-            <h2>Summary</h2>
-                <br><span class="title">IT Experience</span> 
-                   
-                       <div class="text"> Scrum Master / Project Manager with 1+ year of experience, who is able to lead teams to deliver the product.
+               
+                    <div class="card bg-red">
+                        
+                        <h1>Anton Karseka</h1>
+
+                      <table class="table">
+                        <tr>
+                            
+                                <td><img class="avatar" src="img/Karseka_avatarka.jpg" alt="Karseka_avatarka"></td> 
+                                
+                                <td><h2 id="contacts" >Contacts</h2>
+                                                            
+                                    <ul>  
+                                    <li> <a href="https://github.com/Karseka" target="blank">Github</a></li>
+                                    <li> <a href="https://www.linkedin.com/in/anton-karseka-0a2a35200" target="blank">Linkedin</a></li>
+                                    <li> <a href="https://join.skype.com/invite/iAy73nfJ42PO" target="blank">Skype</a></li>
+                                    <li> <a href="https://t.me/Ppatso" target="blank">Telegram</a></li>
+                                    </ul> 
+
+                                </td>     
+                                
+                                
+                                    
+                                    
+                            
+
+                        </tr>
+                      </table>  
+                    </div>           
+
+                
+                
+            
+            <div class="card bg-yellow">
+                <h2 id="summary">Summary</h2>
+                    <h4>IT Experience</h4> 
                     
-                    Skilled in Agile & Waterfall Methodologies, Scrum, Kanban.</div>
-                    
+                        <p> Scrum Master / Project Manager with 1+ year of experience, who is able to lead teams to deliver the product.
+                        
+                        Skilled in Agile & Waterfall Methodologies, Scrum, Kanban.</p>
+            </div>        
             
      
-        <hr>
-            <h2>Education</h2><br>
-                
-            
-                
-                <ul>
-                    <li>Belarusian State Economic University
+            <div class="card bg-green">
+                <h2 id="education">Education</h2><br>
+                         
+                 <ul>
+                    <li><strong>Belarusian State Economic University</strong>
                         <ul>
                             <li>International Economic Relations Faculty. MINSK, BELARUS
                                 <ul>
@@ -66,7 +89,7 @@
 
                 
 
-                    <li>PROFIL GMBH, Institut fuer weiterbildung, personalentwicklung und computertraining. Hаnnover, GERMANY
+                    <li><strong>PROFIL GMBH, Institut fuer weiterbildung, personalentwicklung und computertraining. Hаnnover, GERMANY</strong>
                         <ul>
                             <li>Specialization Web-/Shopadministration
                                 <ul>
@@ -77,23 +100,19 @@
                     </li>
 
                     
-                </ul><br>
+                </ul>
 
          
                 
-
+            </div>
             
-        <hr>
-            <h2>Languages</h2>
+        <div class="card bg-red">
+            <h2 id="languages">Languages</h2>
 
             <div>
 
-                <table >
-                    <tr>
-                        <th>Language</th>
-                        <th>Level</th>
-                        <th>Details</th>
-                    </tr>
+                <table class="table">
+                   
                     <tr>
                         <td>Russian</td>
                         <td>C1</td>
@@ -119,15 +138,55 @@
             </div>     
 
 
-            
-        <hr class="border">
-    </main>
+        </div>   
 
-    <footer> 
-        <div><a href="https://github.com/Karseka" target="blank">Github</a></div>
-        <div>2022</div>
-        <div><a href="https://rs.school/js/" target="_blank"><img src="img/rs_logo.jpg" alt="rs_logo"  width="200"></a> </div>
+        <div class="card bg-yellow">
+            <h2 id="courses">Courses</h2>
+                <h4>IT Lorem</h4> 
+                
+                    <ul class="list">
+                        <li>HTML for beginners. codebasics</li>
+                        <li>SQL course. SoloLearn</li>
+                        <li>Постановка задач на разработку ПО. Stepik</li>
+                        <li>Business Analysis. BelHard</li>
+                    </ul>
+        </div>        
+        
+        <div class="card bg-green">
+            <h2 id="code">Code</h2>
+                 
+                
+                    <pre>
+                         const createDreamTeam = (members) => {
+                        if (!Array.isArray(members)) return false
+                        return members
+                           .filter(m => typeof m === 'string')
+                           .map(m => m.trim()[0].toUpperCase())
+                           .sort()
+                           .join('')
+                     }
+                    </pre>
+        </div> 
+        
+        
+    </main>    
+    <footer>
+        <div class="card bg-red flex-container">
+        
+            <table>
+                <tr>
+                  
+                  <td><div class="flex-item item-1"><a href="https://github.com/Karseka" target="blank">Github</a></div></td>
+                  <td> <div class="flex-item item-2"><a href="https://rs.school/js/" target="_blank"><img src="img/rs_logo.jpg" alt="rs_logo"  width="200"></a> </div></td> 
+                  <td> <div class="flex-item item-3"><p>2022</p></div></td>
+                </tr>
+            </table>   
+           
+        </div> 
+    </footer>  
+        
 
-    </footer>
+
+    </div>
 </body>
 </html>
